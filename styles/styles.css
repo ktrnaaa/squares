@@ -1,0 +1,26 @@
+.frame{
+
+    width: 1000px;
+    height: 800px;
+    background-color: #c9e5e5;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+
+}
+.squares{
+    margin-top: 100px;
+    flex-direction: row;
+    display: flex;
+}
+.square{
+    width: 200px;
+    height: 200px;
+    background-color: #d1b9ce;
+    margin: 20px;
+}
+button{
+    width: 200px;
+    height: 50px;
+    margin: 20px;
+}
